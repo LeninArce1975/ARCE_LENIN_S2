@@ -1,0 +1,7 @@
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\bin\Debug\casito_git.exe.config
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\bin\Debug\casito_git.exe
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\bin\Debug\casito_git.pdb
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\obj\Debug\casito_git.csproj.AssemblyReference.cache
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\obj\Debug\casito_git.csproj.CoreCompileInputs.cache
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\obj\Debug\casito_git.exe
+D:\2025-2\FUNDAMENTOS DE ALGORITMOS\casito_git\casito_git\casito_git\obj\Debug\casito_git.pdb
