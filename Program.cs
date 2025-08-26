@@ -12,6 +12,7 @@ namespace casito_git
         {
             Console.WriteLine("Bienvenidos a Git y Github ");
             Console.WriteLine("Cambiando");
+            Console.WriteLine("es rama 2");
             Console.ReadKey();
         }
     }
